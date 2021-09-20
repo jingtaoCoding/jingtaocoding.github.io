@@ -5,16 +5,21 @@
         <meta charset="utf-8">
         <title>Coding Land</title>
         <link rel="stylesheet" href="index.css">
-        <script async type="text/javascript" src="//asset.fwcdn2.com/js/embed-feed.js"></script>
     </head>
 
     <body class="logged-in env-production page-responsive" style="word-wrap: break-word;">
         <h1> Hello World</h1>
 
-        <div id="dog-channel"> 
+        <div id="fw-channel-feed"> 
+            <script async type="text/javascript" src="//asset.fwcdn2.com/js/embed-feed.js"></script>
             <fw-embed-feed channel="cointrader100078475" mode="row" open_in="default" max_videos="0" placement="middle"
                 player_placement="bottom-right"></fw-embed-feed>
         </div>    
+
+        <div id="fw-storyblock">  
+            <script async src='//asset.fwcdn2.com/js/storyblock.js'></script>
+            <fw-storyblock channel="cointrader" autoplay="true"></fw-storyblock>
+        </div>
     </body>
 
 </html>
