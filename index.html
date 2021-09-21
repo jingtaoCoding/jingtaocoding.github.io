@@ -4,21 +4,21 @@
     <head>
         <meta charset="utf-8">
         <title>Coding Land</title>
-        <link rel="stylesheet" href="index.css">
+        <link rel="stylesheet" href="index.scss">
+        <script async type="text/javascript" src="//asset.fwcdn2.com/js/embed-feed.js"></script>
+        <script async src='//asset.fwcdn2.com/js/storyblock.js'></script>
     </head>
 
     <body class="logged-in env-production page-responsive" style="word-wrap: break-word;">
         <h1> Firwork Feeds </h1>
         <p>Find more on <a href="https://firework.tv">firework</a></p>
-        
-        <div id="fw-channel-feed"> 
-            <script async type="text/javascript" src="//asset.fwcdn2.com/js/embed-feed.js"></script>
+
+        <div class="fw-embed-feed-channel"> 
             <fw-embed-feed channel="cointrader100078475" mode="row" open_in="default" max_videos="0" placement="middle"
                 player_placement="bottom-right"></fw-embed-feed>
         </div>    
 
-        <div id="fw-storyblock">  
-            <script async src='//asset.fwcdn2.com/js/storyblock.js'></script>
+        <div class="fw-storyblock-channel">  
             <fw-storyblock channel="cointrader" autoplay="true"></fw-storyblock>
         </div>
     </body>
