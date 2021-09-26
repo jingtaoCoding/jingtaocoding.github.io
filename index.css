@@ -21,3 +21,7 @@ body.fw-storyblock-channel {
   width: 240px;
   height: 400px;
 }
+
+body.about-us {
+  float: right;
+}
