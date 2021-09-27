@@ -2,7 +2,7 @@
 
 day day up! 
 
-[Firework Feed](https://github.com/jingtaoCoding/uni_apps/blob/master/learn/index.html)
+[Firework for Developers](https://docs.firework.tv/)
 
 2020-09
 Milpitas, CA
