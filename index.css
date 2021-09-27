@@ -17,6 +17,10 @@ body {
  padding: 0;
 }
 
+.row {
+  display: flex;
+}
+
 .fw-storyblock {
   width: 360px;
   height: 600px;
