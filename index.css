@@ -35,6 +35,9 @@ body {
   height: 100px;
 }
 
+.google-disp {
+   height: 200px;
+}
 .about-us {
   float: right;
 }
