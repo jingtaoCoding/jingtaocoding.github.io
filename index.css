@@ -18,7 +18,7 @@ body {
 }
 
 .row {
-  display: flex;
+  display:inline-flex;
 }
 
 .fw-storyblock {
