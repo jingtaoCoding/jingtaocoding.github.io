@@ -22,9 +22,13 @@ body {
   height: 600px;
 }
 
-.amazon-600-520{
+.amazon-600-520 {
   width: 400px;
   height: 600px;
+}
+
+.amazon-728-90 {
+  height: 100px;
 }
 
 .about-us {
