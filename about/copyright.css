@@ -6,6 +6,8 @@ body {
 }
 
 .row {
+  margin: 0 20px;
+  padding: 10px;
   display: inline-flex;
 }
 
