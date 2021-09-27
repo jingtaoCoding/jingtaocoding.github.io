@@ -13,15 +13,15 @@ body {
   font-family: sans-serif;
 }
 
-body.fw-embed-feed-channel {
+.fw-embed-feed {
  padding: 0;
 }
 
-body.fw-storyblock-channel {
+.fw-storyblock {
   width: 240px;
   height: 400px;
 }
 
-body.about-us {
+.about-us {
   float: right;
 }
